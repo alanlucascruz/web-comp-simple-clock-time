@@ -1,0 +1,18 @@
+* {
+  font-family: "Roboto";
+}
+html,
+body {
+  height: 100%;
+}
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #020e26;
+}
+h1 {
+  color: #ffffff;
+  font-size: 144px;
+  font-weight: 300;
+}
